@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Febricity</title>
+    <link>https://febricity.app/author/</link>
+    <description>Recent content in Authors on Febricity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://febricity.app/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mark Wagner</title>
+      <link>https://febricity.app/author/mark-wagner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://febricity.app/author/mark-wagner/</guid>
+      <description>Mark developed Febricity in March 2020</description>
+    </item>
+    
+  </channel>
+</rss>

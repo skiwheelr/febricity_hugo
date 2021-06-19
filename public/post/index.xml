@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Febricity</title>
+    <link>https://febricity.app/post/</link>
+    <description>Recent content in Posts on Febricity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://febricity.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Screening At Live Events</title>
+      <link>https://febricity.app/post/post-1/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://febricity.app/post/post-1/</guid>
+      <description>While thermal imaging has been used in Asia since 2003, entities in the United States are only getting started now. Spurred by Covid-19, grocers in California are a prime example of an early adopter of thermal screening to augment fever detection. There are multiple ways to use this technology at live events as well as shortcomings to those techniques.
+Detection of Viral Fever / Seasonal Flu: While a person is often contagious days before and days after detectable symptoms, they are most contagious at the time they are experiencing symptoms.</description>
+    </item>
+    
+    <item>
+      <title>Positive Outcome Considerations</title>
+      <link>https://febricity.app/post/post-2/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://febricity.app/post/post-2/</guid>
+      <description>Make screening a part of your medical/security plan so your designated alert contact knows what do when information is received. \ Come up with a strategy for handling people who demonstrate indicators of high skin temperature. Ask a series of brief questions. (have you taken any medications or participated in any physical activities that may have impacted your indicated temperature?) \ Come up with a strategy for what happens if secondary diagnosis by medical staff determines that person is positive for a virus.</description>
+    </item>
+    
+  </channel>
+</rss>

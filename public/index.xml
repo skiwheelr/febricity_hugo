@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Febricity</title>
+    <link>https://febricity.app/</link>
+    <description>Recent content on Febricity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://febricity.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Screening At Live Events</title>
+      <link>https://febricity.app/post/post-1/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://febricity.app/post/post-1/</guid>
+      <description>While thermal imaging has been used in Asia since 2003, entities in the United States are only getting started now. Spurred by Covid-19, grocers in California are a prime example of an early adopter of thermal screening to augment fever detection. There are multiple ways to use this technology at live events as well as shortcomings to those techniques.
+Detection of Viral Fever / Seasonal Flu: While a person is often contagious days before and days after detectable symptoms, they are most contagious at the time they are experiencing symptoms.</description>
+    </item>
+    
+    <item>
+      <title>Positive Outcome Considerations</title>
+      <link>https://febricity.app/post/post-2/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://febricity.app/post/post-2/</guid>
+      <description>Make screening a part of your medical/security plan so your designated alert contact knows what do when information is received. \ Come up with a strategy for handling people who demonstrate indicators of high skin temperature. Ask a series of brief questions. (have you taken any medications or participated in any physical activities that may have impacted your indicated temperature?) \ Come up with a strategy for what happens if secondary diagnosis by medical staff determines that person is positive for a virus.</description>
+    </item>
+    
+    <item>
+      <title>Demos</title>
+      <link>https://febricity.app/demos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://febricity.app/demos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>https://febricity.app/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://febricity.app/download/</guid>
+      <description>This APK file has not yet been qualified for play store. You may see warnings during installation. Do not download this application from any other website while awaiting play store approval.
+Click Here On Your Phone 
+** Use of this software or the FLIR ONE device is not a substitute for a medical diagnosis. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://febricity.app/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://febricity.app/features/</guid>
+      <description>   Detection Telematic Reporting Anonymity              Audit Trail Image Capture Passive Scanning Add Ons            </description>
+    </item>
+    
+    <item>
+      <title>Mark Wagner</title>
+      <link>https://febricity.app/author/mark-wagner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://febricity.app/author/mark-wagner/</guid>
+      <description>Mark developed Febricity in March 2020</description>
+    </item>
+    
+    <item>
+      <title>Required Hardware</title>
+      <link>https://febricity.app/requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://febricity.app/requirements/</guid>
+      <description>Good  FLIR ONE PRO (*Not for Diagnosis – Skin Temp Screening ONLY) – $450 Flir One PRO (Gen III (Not LT) Android Phone with USB-C, WirelessCharge   Better  Flir A320 TempScreen (FDA Approved for Medical Use) + Tripod Raspberry Pi with Strong Web Connection Hosted web server to report alerts to staff   Best  Flir E85 24° (FDA Approved for Medical Use) – $8,750 + Tripod Raspberry Pi Hosted web server to report alerts to staff</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://febricity.app/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/post/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/post/post-1/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/post/post-2/</loc>
+    <lastmod>2020-01-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/demos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/download/</loc>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/features/</loc>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/author/mark-wagner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/requirements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://febricity.app/tags/</loc>
+  </url>
+  
+</urlset>
